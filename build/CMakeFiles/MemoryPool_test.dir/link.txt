@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/MemoryPool_test.dir/tests/main.cpp.o -o MemoryPool_test  libMemoryPool.a -lpthread 

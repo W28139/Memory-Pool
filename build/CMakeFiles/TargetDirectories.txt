@@ -1,0 +1,4 @@
+/home/wevix/memory_pool/build/CMakeFiles/MemoryPool.dir
+/home/wevix/memory_pool/build/CMakeFiles/MemoryPool_test.dir
+/home/wevix/memory_pool/build/CMakeFiles/edit_cache.dir
+/home/wevix/memory_pool/build/CMakeFiles/rebuild_cache.dir

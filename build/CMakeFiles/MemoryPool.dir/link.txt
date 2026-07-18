@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMemoryPool.a CMakeFiles/MemoryPool.dir/src/MemoryPool.cpp.o
+/usr/bin/ranlib libMemoryPool.a
